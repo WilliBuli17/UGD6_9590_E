@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UGD6_9590_E</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoid2lsbGlidWxpMTciLCJhIjoiY2tmbmRnZnk4MGJuazJ3b2Z0aHNmaDM5YiJ9.z7_ZT6BnjOZqCPRF9aSyJw</string>
+    <string name="start_navigation">Start navigation</string>
+    <string name="street">Street</string>
+    <string name="satelite">Satelite</string>
+    <string name="satelite_street">Satelite Street</string>
+    <string name="outdors">Outdors</string>
+    <string name="traffic_day">Traffic Day</string>
+    <string name="dark">Dark</string>
+    <string name="traffic_night">Traffic Night</string>
+    <string name="light">Light</string>
+</resources>

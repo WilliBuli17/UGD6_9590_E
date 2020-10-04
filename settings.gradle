@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UGD6_9590_E"
